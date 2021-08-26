@@ -1,0 +1,23 @@
+.main-container{
+    padding: 20px;
+    text-align: center;
+    background-color:lightskyblue;
+    font-weight: bold;
+    height: 100vh;
+    line-height: 100px;
+    font-size: xx-large;    
+  
+}
+
+.main-container span{
+    margin-right:20px;
+    padding: 10px;
+}
+ span:hover{
+    color:blueviolet;
+    color:cornsilk
+}
+
+.button{
+    margin-left: 20px;
+}
